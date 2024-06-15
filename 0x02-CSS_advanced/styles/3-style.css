@@ -1,7 +1,22 @@
 /*
 ========
-General
-=======
+VARIABLES
+========
+*/
+
+:root {
+  --color-prmary: #d73953;
+  --color-balck: #090909;
+  --color-white: #ffffff;
+  --color-light-grey: #f3f3f3;
+  --color-dark-grey: #353535;
+  --text-color: var(--color-balck);
+}
+
+/*
+========
+GENERAL
+========
 */
 
 html {
@@ -9,7 +24,7 @@ html {
 }
 
 body {
-  color: #161616;
+  color: var(--color-balck);
 }
 
 a {
@@ -21,9 +36,9 @@ a {
 }
 
 .card-category {
-  color: #d73953;
+  color: var(--color-prmary);
 }
 
 .section-tagline {
-  color: #d73953;
+  color: var(--color-prmary);
 }
