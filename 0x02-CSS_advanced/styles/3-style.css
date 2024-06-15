@@ -10,7 +10,7 @@ VARIABLES
   --color-white: #ffffff;
   --color-light-grey: #f3f3f3;
   --color-dark-grey: #353535;
-  --text-color: var(--color-balck);
+  --text-color: var(--color-black);
 }
 
 /*
