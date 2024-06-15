@@ -5,7 +5,7 @@ VARIABLES
 */
 
 :root {
-  --color-prmary: #d73953;
+  --color-primary: #d73953;
   --color-balck: #090909;
   --color-white: #ffffff;
   --color-light-grey: #f3f3f3;
@@ -14,21 +14,21 @@ VARIABLES
 }
 
 /*
-========
-GENERAL
-========
-*/
+  ========
+  GENERAL
+  ========
+  */
 
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  color: var(--color-balck);
+  color: var(--text-color);
 }
 
 a {
-  color: var(--color-balck);
+  color: var(--text-color);
 }
 
 .visually-hidden {
@@ -36,9 +36,9 @@ a {
 }
 
 .card-category {
-  color: var(--text-color);
+  color: var(--color-primary);
 }
 
 .section-tagline {
-  color: var(--text-color);
+  color: var(--color-primary);
 }

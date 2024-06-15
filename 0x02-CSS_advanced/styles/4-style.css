@@ -5,7 +5,7 @@ VARIABLES
 */
 
 :root {
-  --color-prmary: #d73953;
+  --color-primary: #d73953;
   --color-balck: #090909;
   --color-white: #ffffff;
   --color-light-grey: #f3f3f3;
@@ -36,9 +36,9 @@ a {
 }
 
 .card-category {
-  color: var(--color-balck);
+  color: var(--color-primary);
 }
 
 .section-tagline {
-  color: var(--color-balck);
+  color: var(--color-primary);
 }
