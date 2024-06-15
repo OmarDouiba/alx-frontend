@@ -14,10 +14,10 @@ VARIABLES
 }
 
 /*
-========
-GENERAL
-========
-*/
+  ========
+  GENERAL
+  ========
+  */
 
 html {
   scroll-behavior: smooth;
@@ -36,9 +36,9 @@ a {
 }
 
 .card-category {
-  color: var(--text-color);
+  color: var(--color-prmary);
 }
 
 .section-tagline {
-  color: var(--text-color);
+  color: var(--color-prmary);
 }
