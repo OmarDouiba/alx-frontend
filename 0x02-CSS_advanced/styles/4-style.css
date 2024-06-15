@@ -24,11 +24,11 @@ html {
 }
 
 body {
-  color: var(--color-balck);
+  color: var(--text-color);
 }
 
 a {
-  color: var(--color-balck);
+  color: var(--text-color);
 }
 
 .visually-hidden {
@@ -36,9 +36,9 @@ a {
 }
 
 .card-category {
-  color: var(--color-prmary);
+  color: var(--color-balck);
 }
 
 .section-tagline {
-  color: var(--color-prmary);
+  color: var(--color-balck);
 }
