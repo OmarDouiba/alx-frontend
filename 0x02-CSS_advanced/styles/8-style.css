@@ -28,7 +28,7 @@ VARIABLES
   --font-weight-bold: 700;
   /* LINE HEIGHT */
   --line-height-small: 1.2;
-  --line--height-base: 1.5;
+  --line-height-base: 1.5;
   --line-height-big: 1.8;
 }
 
@@ -48,7 +48,7 @@ body {
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
-  line-height: var(--line--height-base);
+  line-height: var(--line-height-base);
 }
 
 h1,
