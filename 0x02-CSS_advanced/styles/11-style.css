@@ -32,13 +32,14 @@ VARIABLES
   --line-height-big: 1.8;
   /* SECTIONS STYLE */
   --section-header-align: center;
+  --section-tagline-transform: uppercase;
 }
 
 /*
-  ========
-  GENERAL
-  ========
-  */
+    ========
+    GENERAL
+    ========
+    */
 
 html {
   scroll-behavior: smooth;
@@ -69,10 +70,10 @@ a {
 }
 
 /* 
-========
-STYLE
-========
-*/
+  ========
+  STYLE
+  ========
+  */
 
 .visually-hidden {
   display: none;
@@ -90,4 +91,7 @@ STYLE
 
 .section-tagline {
   color: var(--color-primary);
+  font-family: var(--font-family-title);
+  text-transform: var(--section-tagline-transform);
+  font-weight: var(--font-weight-bold);
 }
