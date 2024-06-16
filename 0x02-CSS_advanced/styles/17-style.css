@@ -299,3 +299,8 @@ a:active {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* FOOTER */
+.footer {
+  padding: var(--footer-padding);
+}
