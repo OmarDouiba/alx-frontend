@@ -38,10 +38,10 @@ VARIABLES
 }
 
 /*
-      ========
-      GENERAL
-      ========
-      */
+        ========
+        GENERAL
+        ========
+        */
 
 html {
   scroll-behavior: smooth;
@@ -66,16 +66,28 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
+/* LINK */
 a {
   color: var(--text-color);
   text-decoration: none;
 }
 
+a:link:visited {
+  font-style: italic;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  background-color: var(--color-light-grey);
+}
 /* 
-    ========
-    STYLE
-    ========
-    */
+      ========
+      STYLE
+      ========
+      */
 
 .visually-hidden {
   display: none;
