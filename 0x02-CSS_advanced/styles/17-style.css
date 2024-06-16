@@ -148,10 +148,10 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 /*
-========
-VARIABLES
-========
-*/
+  ========
+  VARIABLES
+  ========
+  */
 
 :root {
   /* COLOR */
@@ -187,10 +187,10 @@ VARIABLES
 }
 
 /*
-            ========
-            GENERAL
-            ========
-            */
+              ========
+              GENERAL
+              ========
+              */
 *,
 *::before,
 *::after {
@@ -238,10 +238,10 @@ a:active {
   background-color: var(--color-light-grey);
 }
 /* 
-          ========
-          STYLE
-          ========
-          */
+            ========
+            STYLE
+            ========
+            */
 
 .visually-hidden {
   display: none;
