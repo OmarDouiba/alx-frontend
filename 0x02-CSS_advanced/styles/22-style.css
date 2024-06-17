@@ -388,7 +388,7 @@ ul.row {
 
 /* Add a dark theme to sections */
 [data-section-theme="dark"] {
-  color: var(--color-white);
+  --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
 }
