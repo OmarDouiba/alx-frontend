@@ -148,10 +148,10 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 /*
-              ========
-              VARIABLES
-              ========
-              */
+                ========
+                VARIABLES
+                ========
+                */
 
 :root {
   /* COLOR */
@@ -204,10 +204,10 @@ template {
 }
 
 /*
-                          ========
-                          GENERAL
-                          ========
-                          */
+                            ========
+                            GENERAL
+                            ========
+                            */
 *,
 *::before,
 *::after {
@@ -255,10 +255,10 @@ a:active {
   background-color: var(--color-light-grey);
 }
 /* 
-                        ========
-                        STYLE
-                        ========
-                        */
+                          ========
+                          STYLE
+                          ========
+                          */
 
 .visually-hidden {
   display: none;
@@ -324,7 +324,7 @@ a:active {
   display: block;
 }
 
-.social-link > svg {
+.social-link svg {
   fill: var(--text-color);
 }
 
