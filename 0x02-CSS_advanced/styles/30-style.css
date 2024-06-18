@@ -540,18 +540,27 @@ ul.row {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+.card-work .card-title {
+  text-align: center;
+  margin: 0;
+  opacity: 0;
+  height: 100%;
+  position: relative;
+}
+
 .card-work .card-title a {
   display: block;
   text-decoration: none;
-  padding: 45%;
+  padding-top: 45%;
 }
 
-.card-work .card-link a::after {
+.card-work .card-title a::after {
   content: "";
   position: absolute;
   top: 0;
   right: 0;
   left: 0;
+  bottom: 0;
 }
 
 .card-work:hover .card-title {
