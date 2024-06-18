@@ -148,10 +148,10 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 /*
-      ========
-      VARIABLES
-      ========
-      */
+        ========
+        VARIABLES
+        ========
+        */
 
 :root {
   /* COLOR */
@@ -220,10 +220,10 @@ template {
 }
 
 /*
-      ========
-      GENERAL
-      ========
-      */
+        ========
+        GENERAL
+        ========
+        */
 *,
 *::before,
 *::after {
@@ -287,10 +287,10 @@ a:active {
   background-color: var(--button-hover-background);
 }
 /* 
-      ========
-      STYLE
-      ========
-      */
+        ========
+        STYLE
+        ========
+        */
 
 .visually-hidden {
   display: none;
